@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/SenthilAishu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/a-senthil-aishu-9965a41a7//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.kaggle.com/mdaliraza"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
 </p>
 
@@ -16,11 +16,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Exploring Python, MySQL, EDA, Tableau, Machine Learning,Deep learning,NLP,Timeseries.
+- 🌱 Exploring Python, MySQL, EDA, Tableau, Machine Learning, Deep learning, NLP, Timeseries.
 - ⚡ In my free time I solve problems on GeeksforGeeks, HackerRank and read tech articles.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:senthilaishu100@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Senthil kumar)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SenthilSaravanan)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/9080396199)
 
 ---
