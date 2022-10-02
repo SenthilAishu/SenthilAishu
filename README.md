@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/a-senthil-aishu-9965a41a7//"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.kaggle.com/mdaliraza"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
+<a href="https://www.kaggle.com/senthilkumar12"><img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Kaggle Badge"></a>
 </p>
 
 ---
